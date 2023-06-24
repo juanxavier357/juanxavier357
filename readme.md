@@ -26,8 +26,7 @@
 </h3>
 
 <div align="center">
-<img 
-  src='./developer.gif' />
+<img width="300" height="300" src='./developer.gif' />
 <div/>
 
 <p align="center"> 
@@ -65,21 +64,22 @@
 
 <!-- About Section -->
  # About me
- 
-<p>
- <img align="right" width="350" src="./coding.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: cabellosalirrosas@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/juanxavier357/juanxavier357/issues)
 
-</p>
-
+<div align="center">
+  <img align="right" width="300" src="./coding.gif" alt="Coding gif" />
+  <br/>
+  <br/>
+  <p>
+   ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+   ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+   📧 &emsp; Reach me anytime: cabellosalirrosas@gmail.com<br/><br/>
+   💬 &emsp; Ask me about anything [here](https://github.com/juanxavier357/juanxavier357/issues)
+  </p>
+</div>
 <br/>
 <br/>
-<br/>
 
+<!-- About Section -->
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
